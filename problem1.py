@@ -1,0 +1,16 @@
+import math
+number  = input("please enter a number")
+number = int(number)
+number2 = input("please enter a number")
+number2 = int(number2)
+number3 = input("please enter a number")
+number3 = int(number3) 
+number4 = input("please enter a number")
+number4 = int(number4)
+number5 = input("please enter a number")
+number5 = int(number5)
+total = (number)+(number2)+(number3)+(number4)+(number5)
+print("your total is" + str( total))
+average = (total)/(5)
+print ("your average is" + str( average))
+
